@@ -83,7 +83,7 @@ main {
 .bio {
   color: var(--neutral-2);
   font-weight: 600;
-  padding: 0 4rem;
+  padding: 0 2rem;
 }
 
 .links {
